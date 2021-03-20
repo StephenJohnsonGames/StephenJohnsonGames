@@ -29,6 +29,8 @@ VR Project - Creating game mechanics for a game with added complexity of VR.
 
 ****
 
+Unity-ForwardTestCases - Example of a series of test cases to bug check FOVOTEC package for forward rendering.
+
 Avatar-Camera - Collection of C# scripts used in creation of demos for FOVOTEC.
 
 UIWork - Collection of C# scripts used in UI Menus for FOVOTEC.
