@@ -8,6 +8,8 @@ As the majority of my code i've worked on at my job is under NDA, you can get a 
 https://www.youtube.com/channel/UCUYGjJAz6uKqh6WLlXykJCA
 
 Videos of my other projects running can also be found there.
+
+Screenshots of each project can be found in their repos.
 ****
 Repositories can be broken down into these categories:
 
